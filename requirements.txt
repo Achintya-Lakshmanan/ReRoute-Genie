@@ -1,0 +1,8 @@
+matplotlib
+pandas
+numpy
+xgboost
+geopy
+opencv-contrib-python
+scikit-learn
+scipy
